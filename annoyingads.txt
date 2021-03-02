@@ -1,0 +1,13 @@
+0.0.0.0 b8pfulzbyj7h.com
+0.0.0.0 postlnk.com
+0.0.0.0 trk.spten.com
+0.0.0.0 spten.com
+0.0.0.0 secureconv-dl.com
+0.0.0.0 deloplen.com
+0.0.0.0 adform.net
+0.0.0.0 ads-twitter.com
+0.0.0.0 static.ads-twitter.com
+0.0.0.0 amazon-adsystem.com
+0.0.0.0 static.amazon-adsystem.com
+
+
