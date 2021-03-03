@@ -9,5 +9,53 @@
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 static.amazon-adsystem.com
+0.0.0.0 lp1.privacy-extension.xyz
+0.0.0.0 privacy-extension.xyz
+0.0.0.0 www.searchplaywin.site
+0.0.0.0 searchplaywin.site
+0.0.0.0 www.platincasino.com
+0.0.0.0 platincasino.com
+0.0.0.0 trkmytraffic.com
+0.0.0.0 adsearch.com
+0.0.0.0 www.bet365.de
+0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 match.adsrvr.org
+0.0.0.0 adsrvr.org
+0.0.0.0 ib.adnxs.com
+0.0.0.0 adnxs.com
+0.0.0.0 c.aaxads.com
+0.0.0.0 aaxads.com
+0.0.0.0 ad11.adfarm1.adition.com
+0.0.0.0 adfarm1.adition.com
+0.0.0.0 adition.com
+0.0.0.0 adx.adform.net
+0.0.0.0 adform.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 fls.doubleclick.net
+0.0.0.0 adservice.google.com
+0.0.0.0 g.doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 doubleclick.net
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 googlesyndication.com
+0.0.0.0 orbidder.otto.de
+0.0.0.0 otto.de
+0.0.0.0 fastlane.rubiconproject.com
+0.0.0.0 rubiconproject.com
+0.0.0.0 prg.smartadserver.com
+0.0.0.0 smartadserver.com
+0.0.0.0 ad.yieldlab.net
+0.0.0.0 yieldlab.net
+0.0.0.0 cdn-a.yieldlove.com
+0.0.0.0 a.yieldlove.com
+0.0.0.0 yieldlove.com
+
+
+
+
+
+
+
 
 
