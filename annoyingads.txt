@@ -97,191 +97,191 @@
 0.0.0.0 ipapi.co
 0.0.0.0 www.neodatagroup.com
 0.0.0.0 neodatagroup.com
-www.home.neustar
-home.neustar
-ns-cdn.neustar.biz
-neustar.biz
-www.zoominfo.com
-zoominfo.com
-ws-assets.zoominfo.com
-ws.zoominfo.com
-app-ab40.marketo.com
-www.marketo.com
-micro.marketo.com
-blog.marketo.com
-marketo.com
-www.outbrain.com
-outbrain.com
-ip.outbrain.com
-campaign.adpushup.com
-adpushup.com
-stats.googleadservices.com
-static.googleadservices.com
-tracking.googleadservices.com
-www.googleadservices.com
-googleadservices.com
-advertise.taboola.com
-ads.taboola.com
-stats.taboola.com
-static.taboola.com
-tracking.taboola.com
-www.taboola.com
-taboola.com
-www.plista.com
-plista.com
-cdn.plista.com
-app.plista.com
-advertise.plista.com
-ads.plista.com
-cdn.publicismedia.de
-app.publicismedia.de
-advertise.publicismedia.de
-ads.publicismedia.de
-stats.publicismedia.de
-www.publicismedia.de
-publicismedia.de
-cdn.secureprivacy.ai
-app.secureprivacy.ai
-advertise.secureprivacy.ai
-ads.secureprivacy.ai
-stats.secureprivacy.ai
-static.secureprivacy.ai
-tracking.secureprivacy.ai
-api-prod.secureprivacy.ai
-app.secureprivacy.ai
-www.secureprivacy.ai
-secureprivacy.ai
-cdn.semasio.com
-app.semasio.com
-advertise.semasio.com
-ads.semasio.com
-stats.semasio.com
-static.semasio.com
-tracking.semasio.com
-www.semasio.com
-semasio.com
-cdn.next14.com
-app.next14.com
-advertise.next14.com
-ads.next14.com
-stats.next14.com
-static.next14.com
-tracking.next14.com
-www.next14.com
-next14.com
-goto.sportradar.com
-sja.sportradar.com
-app.sportradar.com
-advertise.sportradar.com
-ads.sportradar.com
-stats.sportradar.com
-static.sportradar.com
-tracking.sportradar.com
-www.sportradar.com
-sportradar.com
-cdn.truendo.com
-app.truendo.com
-advertise.truendo.com
-ads.truendo.com
-stats.truendo.com
-static.truendo.com
-tracking.truendo.com
-prod-origin.truendo.com
-prod-fra.truendo.com
-www.truendo.com
-truendo.com
-cdn.openweb.com
-app.openweb.com
-advertise.openweb.com
-ads.openweb.com
-stats.openweb.com
-static.openweb.com
-tracking.openweb.com
-www.openweb.com
-openweb.com
-cdn.teads.tv
-app.teads.tv
-advertise.teads.tv
-ads.teads.tv
-stats.teads.tv
-static.teads.tv
-tracking.teads.tv
-www.teads.tv
-teads.tv
-app.unicredit.it
-advertise.unicredit.it
-ads.unicredit.it
-stats.unicredit.it
-static.unicredit.it
-tracking.unicredit.it
-cdn.adsoftheworld.com
-app.adsoftheworld.com
-advertise.adsoftheworld.com
-ads.adsoftheworld.com
-stats.adsoftheworld.com
-static.adsoftheworld.com
-tracking.adsoftheworld.com
-www.adsoftheworld.com
-adsoftheworld.com
-cdn.bestadsontv.com
-app.bestadsontv.com
-advertise.bestadsontv.com
-ads.bestadsontv.com
-stats.bestadsontv.com
-static.bestadsontv.com
-tracking.bestadsontv.com
-www.bestadsontv.com
-bestadsontv.com
-cdn.weborama.com
-app.weborama.com
-advertise.weborama.com
-ads.weborama.com
-stats.weborama.com
-static.weborama.com
-tracking.weborama.com
-www.weborama.com
-cdn.zemanta.com
-app.zemanta.com
-advertise.zemanta.com
-ads.zemanta.com
-stats.zemanta.com
-static.zemanta.com
-tracking.zemanta.com
-www.zemanta.com
-zemanta.com
-app.ziffdavis.com
-advertise.ziffdavis.com
-ads.ziffdavis.com
-stats.ziffdavis.com
-static.ziffdavis.com
-tracking.ziffdavis.com
-ziffdavis.com
-cdn.scorecardresearch.com
-app.scorecardresearch.com
-advertise.scorecardresearch.com
-ads.scorecardresearch.com
-stats.scorecardresearch.com
-static.scorecardresearch.com
-tracking.scorecardresearch.com
-www.scorecardresearch.com
-scorecardresearch.com
-sb.scorecardresearch.com
-cdn.zdbb.net
-app.zdbb.net
-advertise.zdbb.net
-ads.zdbb.net
-stats.zdbb.net
-static.zdbb.net
-cdn.static.zdbb.net
-tracking.zdbb.net
-www.zdbb.net
-zdbb.net
-cdn.1plusx.com
-app.1plusx.com
-advertise.1plusx.com
-ads.1plusx.com
-stats.1plusx.com
-static.1plusx.com
-tracking.1plusx.com
-www.1plusx.com
-1plusx.com
+0.0.0.0 www.home.neustar
+0.0.0.0 home.neustar
+0.0.0.0 ns-cdn.neustar.biz
+0.0.0.0 neustar.biz
+0.0.0.0 www.zoominfo.com
+0.0.0.0 zoominfo.com
+0.0.0.0 ws-assets.zoominfo.com
+0.0.0.0 ws.zoominfo.com
+0.0.0.0 app-ab40.marketo.com
+0.0.0.0 www.marketo.com
+0.0.0.0 micro.marketo.com
+0.0.0.0 blog.marketo.com
+0.0.0.0 marketo.com
+0.0.0.0 www.outbrain.com
+0.0.0.0 outbrain.com
+0.0.0.0 ip.outbrain.com
+0.0.0.0 campaign.adpushup.com
+0.0.0.0 adpushup.com
+0.0.0.0 stats.googleadservices.com
+0.0.0.0 static.googleadservices.com
+0.0.0.0 tracking.googleadservices.com
+0.0.0.0 www.googleadservices.com
+0.0.0.0 googleadservices.com
+0.0.0.0 advertise.taboola.com
+0.0.0.0 ads.taboola.com
+0.0.0.0 stats.taboola.com
+0.0.0.0 static.taboola.com
+0.0.0.0 tracking.taboola.com
+0.0.0.0 www.taboola.com
+0.0.0.0 taboola.com
+0.0.0.0 www.plista.com
+0.0.0.0 plista.com
+0.0.0.0 cdn.plista.com
+0.0.0.0 app.plista.com
+0.0.0.0 advertise.plista.com
+0.0.0.0 ads.plista.com
+0.0.0.0 cdn.publicismedia.de
+0.0.0.0 app.publicismedia.de
+0.0.0.0 advertise.publicismedia.de
+0.0.0.0 ads.publicismedia.de
+0.0.0.0 stats.publicismedia.de
+0.0.0.0 www.publicismedia.de
+0.0.0.0 publicismedia.de
+0.0.0.0 cdn.secureprivacy.ai
+0.0.0.0 app.secureprivacy.ai
+0.0.0.0 advertise.secureprivacy.ai
+0.0.0.0 ads.secureprivacy.ai
+0.0.0.0 stats.secureprivacy.ai
+0.0.0.0 static.secureprivacy.ai
+0.0.0.0 tracking.secureprivacy.ai
+0.0.0.0 api-prod.secureprivacy.ai
+0.0.0.0 app.secureprivacy.ai
+0.0.0.0 www.secureprivacy.ai
+0.0.0.0 secureprivacy.ai
+0.0.0.0 cdn.semasio.com
+0.0.0.0 app.semasio.com
+0.0.0.0 advertise.semasio.com
+0.0.0.0 ads.semasio.com
+0.0.0.0 stats.semasio.com
+0.0.0.0 static.semasio.com
+0.0.0.0 tracking.semasio.com
+0.0.0.0 www.semasio.com
+0.0.0.0 semasio.com
+0.0.0.0 cdn.next14.com
+0.0.0.0 app.next14.com
+0.0.0.0 advertise.next14.com
+0.0.0.0 ads.next14.com
+0.0.0.0 stats.next14.com
+0.0.0.0 static.next14.com
+0.0.0.0 tracking.next14.com
+0.0.0.0 www.next14.com
+0.0.0.0 next14.com
+0.0.0.0 goto.sportradar.com
+0.0.0.0 sja.sportradar.com
+0.0.0.0 app.sportradar.com
+0.0.0.0 advertise.sportradar.com
+0.0.0.0 ads.sportradar.com
+0.0.0.0 stats.sportradar.com
+0.0.0.0 static.sportradar.com
+0.0.0.0 tracking.sportradar.com
+0.0.0.0 www.sportradar.com
+0.0.0.0 sportradar.com
+0.0.0.0 cdn.truendo.com
+0.0.0.0 app.truendo.com
+0.0.0.0 advertise.truendo.com
+0.0.0.0 ads.truendo.com
+0.0.0.0 stats.truendo.com
+0.0.0.0 static.truendo.com
+0.0.0.0 tracking.truendo.com
+0.0.0.0 prod-origin.truendo.com
+0.0.0.0 prod-fra.truendo.com
+0.0.0.0 www.truendo.com
+0.0.0.0 truendo.com
+0.0.0.0 cdn.openweb.com
+0.0.0.0 app.openweb.com
+0.0.0.0 advertise.openweb.com
+0.0.0.0 ads.openweb.com
+0.0.0.0 stats.openweb.com
+0.0.0.0 static.openweb.com
+0.0.0.0 tracking.openweb.com
+0.0.0.0 www.openweb.com
+0.0.0.0 openweb.com
+0.0.0.0 cdn.teads.tv
+0.0.0.0 app.teads.tv
+0.0.0.0 advertise.teads.tv
+0.0.0.0 ads.teads.tv
+0.0.0.0 stats.teads.tv
+0.0.0.0 static.teads.tv
+0.0.0.0 tracking.teads.tv
+0.0.0.0 www.teads.tv
+0.0.0.0 teads.tv
+0.0.0.0 app.unicredit.it
+0.0.0.0 advertise.unicredit.it
+0.0.0.0 ads.unicredit.it
+0.0.0.0 stats.unicredit.it
+0.0.0.0 static.unicredit.it
+0.0.0.0 tracking.unicredit.it
+0.0.0.0 cdn.adsoftheworld.com
+0.0.0.0 app.adsoftheworld.com
+0.0.0.0 advertise.adsoftheworld.com
+0.0.0.0 ads.adsoftheworld.com
+0.0.0.0 stats.adsoftheworld.com
+0.0.0.0 static.adsoftheworld.com
+0.0.0.0 tracking.adsoftheworld.com
+0.0.0.0 www.adsoftheworld.com
+0.0.0.0 adsoftheworld.com
+0.0.0.0 cdn.bestadsontv.com
+0.0.0.0 app.bestadsontv.com
+0.0.0.0 advertise.bestadsontv.com
+0.0.0.0 ads.bestadsontv.com
+0.0.0.0 stats.bestadsontv.com
+0.0.0.0 static.bestadsontv.com
+0.0.0.0 tracking.bestadsontv.com
+0.0.0.0 www.bestadsontv.com
+0.0.0.0 bestadsontv.com
+0.0.0.0 cdn.weborama.com
+0.0.0.0 app.weborama.com
+0.0.0.0 advertise.weborama.com
+0.0.0.0 ads.weborama.com
+0.0.0.0 stats.weborama.com
+0.0.0.0 static.weborama.com
+0.0.0.0 tracking.weborama.com
+0.0.0.0 www.weborama.com
+0.0.0.0 cdn.zemanta.com
+0.0.0.0 app.zemanta.com
+0.0.0.0 advertise.zemanta.com
+0.0.0.0 ads.zemanta.com
+0.0.0.0 stats.zemanta.com
+0.0.0.0 static.zemanta.com
+0.0.0.0 tracking.zemanta.com
+0.0.0.0 www.zemanta.com
+0.0.0.0 zemanta.com
+0.0.0.0 app.ziffdavis.com
+0.0.0.0 advertise.ziffdavis.com
+0.0.0.0 ads.ziffdavis.com
+0.0.0.0 stats.ziffdavis.com
+0.0.0.0 static.ziffdavis.com
+0.0.0.0 tracking.ziffdavis.com
+0.0.0.0 ziffdavis.com
+0.0.0.0 cdn.scorecardresearch.com
+0.0.0.0 app.scorecardresearch.com
+0.0.0.0 advertise.scorecardresearch.com
+0.0.0.0 ads.scorecardresearch.com
+0.0.0.0 stats.scorecardresearch.com
+0.0.0.0 static.scorecardresearch.com
+0.0.0.0 tracking.scorecardresearch.com
+0.0.0.0 www.scorecardresearch.com
+0.0.0.0 scorecardresearch.com
+0.0.0.0 sb.scorecardresearch.com
+0.0.0.0 cdn.zdbb.net
+0.0.0.0 app.zdbb.net
+0.0.0.0 advertise.zdbb.net
+0.0.0.0 ads.zdbb.net
+0.0.0.0 stats.zdbb.net
+0.0.0.0 static.zdbb.net
+0.0.0.0 cdn.static.zdbb.net
+0.0.0.0 tracking.zdbb.net
+0.0.0.0 www.zdbb.net
+0.0.0.0 zdbb.net
+0.0.0.0 cdn.1plusx.com
+0.0.0.0 app.1plusx.com
+0.0.0.0 advertise.1plusx.com
+0.0.0.0 ads.1plusx.com
+0.0.0.0 stats.1plusx.com
+0.0.0.0 static.1plusx.com
+0.0.0.0 tracking.1plusx.com
+0.0.0.0 www.1plusx.com
+0.0.0.0 1plusx.com
