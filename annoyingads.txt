@@ -50,12 +50,238 @@
 0.0.0.0 cdn-a.yieldlove.com
 0.0.0.0 a.yieldlove.com
 0.0.0.0 yieldlove.com
-
-
-
-
-
-
-
-
-
+0.0.0.0 media.ipromote.com
+0.0.0.0 stats.ipromote.com
+0.0.0.0 static.ipromote.com
+0.0.0.0 www.ipromote.com
+0.0.0.0 ipromote.com
+0.0.0.0 www.jaduda.com
+0.0.0.0 jaduda.com
+0.0.0.0 www.jadudamobile.com
+0.0.0.0 jadudamobile.com
+0.0.0.0 liveramp.com
+0.0.0.0 www.liveramp.com
+0.0.0.0 liveramp.uk
+0.0.0.0 www.liveramp.uk
+0.0.0.0 liveramp.co.uk
+0.0.0.0 www.liveramp.co.uk
+0.0.0.0 rakutenmarketing.com
+0.0.0.0 www.rakutenmarketing.com
+0.0.0.0 rakutenadvertising.com
+0.0.0.0 www.rakutenadvertising.com
+0.0.0.0 blog.rakutenadvertising.com
+0.0.0.0 privacymanager.io
+0.0.0.0 gdpr.privacymanager.io
+0.0.0.0 gdpr-wrapper.privacymanager.io
+0.0.0.0 sharethis.com
+0.0.0.0 www.sharethis.com
+0.0.0.0 platform-api.sharethis.com
+0.0.0.0 emerse.com
+0.0.0.0 www.emerse.com
+0.0.0.0 tracking.emerse.com
+0.0.0.0 static.emerse.com
+0.0.0.0 stats.emerse.com
+0.0.0.0 stats.wp.com
+0.0.0.0 www.smarketer.de
+0.0.0.0 smarketer.de
+0.0.0.0 ads.microsoft.com
+0.0.0.0 wcpstatic.microsoft.com
+0.0.0.0 quantcast.mgr.consensu.org
+0.0.0.0 mgr.consensu.org
+0.0.0.0 consensu.org
+0.0.0.0 www.consensu.org
+0.0.0.0 iabeurope.eu
+0.0.0.0 www.iabeurope.eu
+0.0.0.0 static.iabeurope.eu
+0.0.0.0 stats.iabeurope.eu
+0.0.0.0 ipapi.co
+0.0.0.0 www.neodatagroup.com
+0.0.0.0 neodatagroup.com
+www.home.neustar
+home.neustar
+ns-cdn.neustar.biz
+neustar.biz
+www.zoominfo.com
+zoominfo.com
+ws-assets.zoominfo.com
+ws.zoominfo.com
+app-ab40.marketo.com
+www.marketo.com
+micro.marketo.com
+blog.marketo.com
+marketo.com
+www.outbrain.com
+outbrain.com
+ip.outbrain.com
+campaign.adpushup.com
+adpushup.com
+stats.googleadservices.com
+static.googleadservices.com
+tracking.googleadservices.com
+www.googleadservices.com
+googleadservices.com
+advertise.taboola.com
+ads.taboola.com
+stats.taboola.com
+static.taboola.com
+tracking.taboola.com
+www.taboola.com
+taboola.com
+www.plista.com
+plista.com
+cdn.plista.com
+app.plista.com
+advertise.plista.com
+ads.plista.com
+cdn.publicismedia.de
+app.publicismedia.de
+advertise.publicismedia.de
+ads.publicismedia.de
+stats.publicismedia.de
+www.publicismedia.de
+publicismedia.de
+cdn.secureprivacy.ai
+app.secureprivacy.ai
+advertise.secureprivacy.ai
+ads.secureprivacy.ai
+stats.secureprivacy.ai
+static.secureprivacy.ai
+tracking.secureprivacy.ai
+api-prod.secureprivacy.ai
+app.secureprivacy.ai
+www.secureprivacy.ai
+secureprivacy.ai
+cdn.semasio.com
+app.semasio.com
+advertise.semasio.com
+ads.semasio.com
+stats.semasio.com
+static.semasio.com
+tracking.semasio.com
+www.semasio.com
+semasio.com
+cdn.next14.com
+app.next14.com
+advertise.next14.com
+ads.next14.com
+stats.next14.com
+static.next14.com
+tracking.next14.com
+www.next14.com
+next14.com
+goto.sportradar.com
+sja.sportradar.com
+app.sportradar.com
+advertise.sportradar.com
+ads.sportradar.com
+stats.sportradar.com
+static.sportradar.com
+tracking.sportradar.com
+www.sportradar.com
+sportradar.com
+cdn.truendo.com
+app.truendo.com
+advertise.truendo.com
+ads.truendo.com
+stats.truendo.com
+static.truendo.com
+tracking.truendo.com
+prod-origin.truendo.com
+prod-fra.truendo.com
+www.truendo.com
+truendo.com
+cdn.openweb.com
+app.openweb.com
+advertise.openweb.com
+ads.openweb.com
+stats.openweb.com
+static.openweb.com
+tracking.openweb.com
+www.openweb.com
+openweb.com
+cdn.teads.tv
+app.teads.tv
+advertise.teads.tv
+ads.teads.tv
+stats.teads.tv
+static.teads.tv
+tracking.teads.tv
+www.teads.tv
+teads.tv
+app.unicredit.it
+advertise.unicredit.it
+ads.unicredit.it
+stats.unicredit.it
+static.unicredit.it
+tracking.unicredit.it
+cdn.adsoftheworld.com
+app.adsoftheworld.com
+advertise.adsoftheworld.com
+ads.adsoftheworld.com
+stats.adsoftheworld.com
+static.adsoftheworld.com
+tracking.adsoftheworld.com
+www.adsoftheworld.com
+adsoftheworld.com
+cdn.bestadsontv.com
+app.bestadsontv.com
+advertise.bestadsontv.com
+ads.bestadsontv.com
+stats.bestadsontv.com
+static.bestadsontv.com
+tracking.bestadsontv.com
+www.bestadsontv.com
+bestadsontv.com
+cdn.weborama.com
+app.weborama.com
+advertise.weborama.com
+ads.weborama.com
+stats.weborama.com
+static.weborama.com
+tracking.weborama.com
+www.weborama.com
+cdn.zemanta.com
+app.zemanta.com
+advertise.zemanta.com
+ads.zemanta.com
+stats.zemanta.com
+static.zemanta.com
+tracking.zemanta.com
+www.zemanta.com
+zemanta.com
+app.ziffdavis.com
+advertise.ziffdavis.com
+ads.ziffdavis.com
+stats.ziffdavis.com
+static.ziffdavis.com
+tracking.ziffdavis.com
+ziffdavis.com
+cdn.scorecardresearch.com
+app.scorecardresearch.com
+advertise.scorecardresearch.com
+ads.scorecardresearch.com
+stats.scorecardresearch.com
+static.scorecardresearch.com
+tracking.scorecardresearch.com
+www.scorecardresearch.com
+scorecardresearch.com
+sb.scorecardresearch.com
+cdn.zdbb.net
+app.zdbb.net
+advertise.zdbb.net
+ads.zdbb.net
+stats.zdbb.net
+static.zdbb.net
+cdn.static.zdbb.net
+tracking.zdbb.net
+www.zdbb.net
+zdbb.net
+cdn.1plusx.com
+app.1plusx.com
+advertise.1plusx.com
+ads.1plusx.com
+stats.1plusx.com
+static.1plusx.com
+tracking.1plusx.com
+www.1plusx.com
+1plusx.com
