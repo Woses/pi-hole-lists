@@ -336,3 +336,5 @@
 0.0.0.0 utteredtheatresaround.com
 0.0.0.0 cdn.cloudvideosa.com
 0.0.0.0 cloudvideosa.com
+0.0.0.0 h4ahsm.cfeucdn.com
+0.0.0.0 cfeucdn.com
