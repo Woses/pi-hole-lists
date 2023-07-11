@@ -4,7 +4,7 @@
 0.0.0.0 telemetry.microsoft.com
 0.0.0.0 telemetry.urs.microsoft.com
 0.0.0.0 telemetry.appex.bing.net
-0.0.0.0 telemetry.appex.bing.net:443
+0.0.0.0 telemetry.appex.bing.net
 0.0.0.0 telecommand.telemetry.microsoft.com
 0.0.0.0 telecommand.telemetry.microsoft.com.nsatc.net
 0.0.0.0 df.telemetry.microsoft.com
@@ -78,7 +78,7 @@
 0.0.0.0 survey.watson.microsoft.com
 0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 statsfe2.update.microsoft.com.akadns.net
-0.0.0.0 statsfe2.update.microsoft.com.akadns.net,
+0.0.0.0 statsfe2.update.microsoft.com.akadns.net
 0.0.0.0 statsfe1.ws.microsoft.com
 0.0.0.0 static.2mdn.net
 0.0.0.0 ssw.live.com
